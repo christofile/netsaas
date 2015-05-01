@@ -1,0 +1,39 @@
+/*
+    Document   : admin
+    Created on : 28.12.2012, 13:33:27
+    Author     : anton
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.widget_themico_social_profiles {
+    padding-left: 10px;
+}
+
+.widget_themico_social_profiles .form-table th {
+    width: 20%;
+}
+
+.widget_themico_social_profiles .form-table input {
+    width: 100%;
+}
+
+.widget_themico_social_profiles {
+    height: 600px;
+    overflow-y: scroll;
+}
+
+.predefined-icons {
+    display: none;
+}
+
+.social-icon-preview {
+    border: #ccc solid 1px;
+    padding: 5px;
+    float: right;
+    margin: 2px;
+}
+
+a.dodelete.button:hover, a.dodelete.button {
+    color: red;
+}

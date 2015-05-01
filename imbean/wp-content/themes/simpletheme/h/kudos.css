@@ -1,0 +1,20 @@
+/* Kudos */
+#kudos{width:960px;margin:30px 0 60px 0;}
+.kudos-frame-left{width:220px;}
+.kudos-nav{width:220px;text-align:right;}
+.kudos-nav h3{font-size:16px;color:#666;padding:5px 0;border-bottom:#ddd 1px solid;margin:40px 0 15px 0;}
+.kudos-nav ul li{line-height:200%;list-style:none;}
+.kudos-nav ul li a{color:#999;}
+.kudos-frame-right{width:680px;padding-left:50px;background:transparent url(images/kudos_bg.jpg) no-repeat 25px 0;}
+.kudos-span,.kodus-ul{color:#555;font-size:12px;}
+.kudos-post{padding:0 5px 20px 5px;color:#555;}
+.kodus-error{color:#6994b9;}
+.kodus-ol{font-size:13px;margin:5px 0 5px 25px;}
+.kodus-ul{list-style:none;}
+.kudos-title,.kudos-post h4{color:#6994b9;font-size:18px;line-height:160%;}
+.kudos-meta,.rev-num{color:#999;font-size:11px;}
+.kudos-ads{padding:5px 116px;}
+.kudos-loading{padding-left:25px;background:url(images/loading.gif) no-repeat left center;}
+.highlight{font-size:16px;color:#fff;background:#6994b9;padding:2px 5px;}
+.kudos-download{font-size:14px;width:180px;height:55px;padding-left:40px;margin-top:20px;line-height:25px;display:block;background:transparent url(theme/theme-download.png) no-repeat;text-align:center;}
+.kudos-post .feature{padding:20px 0;}

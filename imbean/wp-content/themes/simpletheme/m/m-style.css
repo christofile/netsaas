@@ -1,0 +1,28 @@
+/*  
+Theme Name: Theme Codename H - Mobile
+*/
+body,div,p,ul,h2,.h{margin:0;padding:0}
+body{font:13px/22px \5FAE\8F6F\96C5\9ED1,\5B8B\4F53,Tahoma,Arial}
+a,a:visited{color:#666;text-decoration:none}
+a:hover{text-decoration:underline}
+img{border:none}
+/* Structure */
+.h{padding:5px;background:#FFF url(images/header_bg.jpg) repeat-x center top}
+.sep{color:#4B72A9}
+.header{height:50px}
+.header h1{font-size:14px;padding:10px 5px}
+.nova{padding:5px}
+/* Nova */
+.nova-title h2{font-size:15px;color:#FF7928;font-weight:normal}
+.nova-posts li{margin:7px 0 7px 18px}
+.nova-posts li,.nova-posts li a{color:#4B72A9}
+.nova-comments li{list-style-type:none;margin:7px 1px}
+.nova-comments .avatar{vertical-align:text-top;padding:0 5px 0 0}
+/* Entry */
+.nova-post-meta{color:#999}
+.nova-post-entry p{color:#444;margin:8px 0;overflow:hidden}
+.nova-post-entry li{list-style-type:disc;margin:0 18px}
+.nova-post-entry a{color:#0791D8}
+.nova-post-entry a img{padding:2px;background:#DEDEDE}
+/* Footer */
+.hcf{clear:both}
